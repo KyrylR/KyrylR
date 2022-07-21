@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Kyrylo, I am a talented, motivated, self-driven, patient student with extensive theoretical and professional skills in software development. Have experience with Blockchain, Vue.js, Machine Learning.
+
+Love to learn. Not afraid to overcome serious tasks. Ready to grow as a personality, as well as a Software Development expert.
 <!--
 **KyrylR/KyrylR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
